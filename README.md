@@ -57,8 +57,8 @@ Proje dizinindeki `settings.json` dosyasını kendi veritabanı bilgilerinizle d
   "user": "root",
   "password": "YOUR_PASSWORD",
   "database": "db_name"
-}```
-
+}
+```
 
 ## 3️⃣ Çalıştırma
 Terminal veya komut satırını açarak ana dosyayı çalıştırın:
