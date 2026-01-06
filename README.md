@@ -64,7 +64,7 @@ Proje dizinindeki `settings.json` dosyasını kendi veritabanı bilgilerinizle d
 Terminal veya komut satırını açarak ana dosyayı çalıştırın:
 
 ```bash
-python main.py
+python Aile Sorgu.py
 ```
 
 ⚖️ Lisans
